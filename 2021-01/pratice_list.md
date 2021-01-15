@@ -18,7 +18,7 @@
 |225|用队列实现栈|4317|65.9%|简单|[题目地址-225]( https://leetcode-cn.com/problems/implement-stack-using-queues)|
 |232|用栈实现队列|525|65.4%|简单|[题目地址-232](https://leetcode-cn.com/problems/implement-queue-using-stacks)|
 
-1. 第二周
+2. 第二周
 
 | 题目编号 | 题目名称 | 题解数 | 通过率 | 题目难度 | 题目地址 |
 | -------- | -------- | ------ | ------ | -------- | -------- |
@@ -27,7 +27,7 @@
 |844|比较含退格的字符串|656|52.2%|简单|[题目地址-844](https://leetcode-cn.com/problems/backspace-string-compare)|
 |1021|删除最外层的括号|432|78.0%|简单|[题目地址-1021](https://leetcode-cn.com/problems/remove-outermost-parentheses)|
 
-1. 第三周
+3. 第三周
 
 | 题目编号 | 题目名称 | 题解数 | 通过率 | 题目难度 | 题目地址 |
 | -------- | -------- | ------ | ------ | -------- | -------- |
