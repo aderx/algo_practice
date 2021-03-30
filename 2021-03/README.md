@@ -24,15 +24,15 @@
 | 题目编号 | 题目名称 | 难度 | 题目地址 |
 | -------- | -------- | ------ | ------ |
 |剑指 Offer 09|用两个栈实现队列|简单|[LINK](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/)|
-|1047|删除字符串中的所有相邻重复项|简单|[LINK](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string)|
-|1598|文件夹操作日志搜集器|简单|[LINK](https://leetcode-cn.com/problems/crawler-log-folder)|
 |94|二叉树的中序遍历|中等|[LINK](https://leetcode-cn.com/problems/binary-tree-inorder-traversal)|
+|144|二叉树的前序遍历|中等|[LINK](https://leetcode-cn.com/problems/binary-tree-preorder-traversal)|
+|739|每日温度|中等|[LINK](https://leetcode-cn.com/problems/daily-temperatures)|
 
 3. 第三周
 
 | 题目编号 | 题目名称 | 难度 | 题目地址 |
 | -------- | -------- | ------ | ------ |
-|144|二叉树的前序遍历|中等|[LINK](https://leetcode-cn.com/problems/binary-tree-preorder-traversal)|
-|739|每日温度|中等|[LINK](https://leetcode-cn.com/problems/daily-temperatures)|
 |394|字符串解码|中等|[LINK](https://leetcode-cn.com/problems/decode-string)|
 |150|逆波兰表达式求值|中等|[LINK](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation)|
+|503|下一个更大元素 II|中等|[LINK](https://leetcode-cn.com/problems/next-greater-element-ii)|
+|341|扁平化嵌套列表迭代器|中等|[LINK](https://leetcode-cn.com/problems/flatten-nested-list-iterator)|
