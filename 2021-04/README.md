@@ -1,7 +1,7 @@
 # 题目列表
 
 
-## 栈
+## 队列、数组
 
 - 题目来源列表地址：
 > https://leetcode-cn.com/problemset/algorithms/
